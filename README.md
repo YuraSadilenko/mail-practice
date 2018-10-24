@@ -30,8 +30,13 @@ Workimg version without fixes.
 
 _v1.1_ 
 
-meta charset was changed from html5 version to html4 version.
-img src changed from local to url.
-td in socials was fixed.
-all padding and margin at styles in table are set to 0, other padding were set to <td> elements.
-Attributes values of width were fixed ( px removed ).
+meta charset was changed from html5 version to html4 version. 
+
+img src changed from local to url. 
+
+td in socials was fixed. 
+
+all padding and margin at styles in table are set to 0, other padding were set to <td> elements. 
+  
+Attributes values of width were fixed ( px removed ). 
+
